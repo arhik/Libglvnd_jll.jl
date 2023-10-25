@@ -1,4 +1,4 @@
-# `Libglvnd_jll.jl` (v1.6.0+0)
+# `Libglvnd_jll.jl` (v1.7.0+0)
 
 [![deps](https://juliahub.com/docs/Libglvnd_jll/deps.svg)](https://juliahub.com/ui/Packages/Libglvnd_jll/z0JB7?page=2)
 
@@ -18,7 +18,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `Libglvnd_jll.jl` have been built from these sources:
 
-* compressed archive: https://gitlab.freedesktop.org/glvnd/libglvnd/-/archive/v1.6.0/libglvnd-v1.6.0.tar.gz (SHA256 checksum: `efc756ffd24b24059e1c53677a9d57b4b237b00a01c54a6f1611e1e51661d70c`)
+* compressed archive: https://gitlab.freedesktop.org/glvnd/libglvnd/-/archive/v1.7.0/libglvnd-v1.7.0.tar.gz (SHA256 checksum: `2b6e15b06aafb4c0b6e2348124808cbd9b291c647299eaaba2e3202f51ff2f3d`)
 
 ## Platforms
 
